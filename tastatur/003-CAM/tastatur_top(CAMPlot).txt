@@ -1,0 +1,279 @@
+CAMPlot
+-------
+
+Report Written : 04.10.2024 22:16:51
+Design Path    : C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\tastatur_top.pcb
+Design Title   : 
+Created        : 04.10.2024 20:15:04
+Last Saved     : 04.10.2024 22:16:48
+Editing Time   : 120 min
+
+Formatting Information
+----------------------
+
+    Gerber Output
+    -------------
+
+    Pulsonix 12.5 Gerber.dll 9449
+    3.5 Format Absolute millimetres.
+    Omit Leading zeroes.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    Aperture table defined in output file (RS-274-X).
+    Hardware arcs allowed.
+
+    Excellon Drill Output
+    ---------------------
+
+    Pulsonix 12.5 NCDrill.dll 9449
+    3.5 Format Absolute Metric.
+    Omit leading zeros
+    Tool sizes are in     mm
+
+
+Plot Details
+------------
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Top).gbr
+    Plot Name:       Top
+
+    Contains:        Top
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D10      Round 0.50
+    D12      Round 0.80
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Bottom).gbr
+    Plot Name:       Bottom
+
+    Contains:        Bottom
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D10      Round 0.50
+    D12      Round 0.80
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Silkscreen Top).gbr
+    Plot Name:       Silkscreen Top
+
+    Contains:        Silkscreen Top
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D97      Round 0.00+
+    D98      Round 0.30
+    D99      Round 0.45
+    D101      Round 1.00
+    D102      Round 0.20
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Solder Mask Top).gbr
+    Plot Name:       Solder Mask Top
+
+    Contains:        Solder Mask Top
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D102      Round 0.20
+    D103      Round 1.05+
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Paste Mask Top).gbr
+    Plot Name:       Paste Mask Top
+
+    Contains:        Paste Mask Top
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    No items output.
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Silkscreen Bottom).gbr
+    Plot Name:       Silkscreen Bottom
+
+    Contains:        Silkscreen Bottom
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D98      Round 0.30
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Solder Mask Bottom).gbr
+    Plot Name:       Solder Mask Bottom
+
+    Contains:        Solder Mask Bottom
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D103      Round 1.05+
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Paste Mask Bottom).gbr
+    Plot Name:       Paste Mask Bottom
+
+    Contains:        Paste Mask Bottom
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    No items output.
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Drill Drawing).gbr
+    Plot Name:       Drill Drawing
+
+    Contains:        <Through Hole>
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D103      Round 0.50
+    D104      Round 0.10
+    D105      Round 9.00
+
+    Drill Table
+    -----------
+    Diam (thou)	Qty	Id	Plated
+
+    19.7	4   	B	Yes
+    354.3	40  	AE	No
+
+
+
+    Excellon Drill Output
+    ---------------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_top(Through Hole).drl
+    Plot Name:       <Through Hole>
+
+    Contains:        <Through Hole>
+
+    Drill Type:      All
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -461.25    -499.50mm
+    Step & Repeat:   Not used
+
+
+    Format     1
+    FMAT statement included in output.
+    Tool sizes included in output.
+
+    Tool          Size     Count  Plated
+
+    T001        000.50000     4     Y
+    T002        009.00000    40     
+
+Summary Information
+-------------------
+
+    Outputs covered by CAM Plots
+    ----------------------------
+
+    Top: Gerber, Artwork, Enabled
+    Bottom: Gerber, Artwork, Enabled
+    Silkscreen Top: Gerber, Artwork, Enabled
+    Solder Mask Top: Gerber, Artwork, Enabled
+    Paste Mask Top: Gerber, Artwork, Enabled
+    Silkscreen Bottom: Gerber, Artwork, Enabled
+    Solder Mask Bottom: Gerber, Artwork, Enabled
+    Paste Mask Bottom: Gerber, Artwork, Enabled
+    Documentation: Windows, Artwork
+    <Through Hole>: Excellon, Drill, Enabled
+    Drill Drawing: Gerber, Drill Drawing, Enabled
+    ass_top: PDF, Artwork
+    ass_bot: PDF, Artwork
+
+    Outputs not covered by CAM Plots
+    --------------------------------
+
+    Layer Wires Top
+    Layer Pin Names
+    Layer PCB
+    Layer Pin Names (Bottom)
+    Layer Wires Bottom
+    Layer Construction Lines
+
+Plotting took 0.129 Seconds
+
+                ---------------- End Of Report ----------------
