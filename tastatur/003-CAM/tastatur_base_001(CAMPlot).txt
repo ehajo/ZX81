@@ -1,12 +1,12 @@
 CAMPlot
 -------
 
-Report Written : 04.10.2024 22:04:24
+Report Written : 25.10.2024 22:20:25
 Design Path    : C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\tastatur_base_001.pcb
 Design Title   : 
 Created        : 04.10.2024 20:15:04
-Last Saved     : 04.10.2024 22:04:20
-Editing Time   : 90 min
+Last Saved     : 25.10.2024 22:20:14
+Editing Time   : 389 min
 
 Formatting Information
 ----------------------
@@ -37,15 +37,17 @@ Plot Details
     Gerber Output
     -------------
 
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Top).gbr
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Top).gbr
     Plot Name:       Top
+
+    Variant:         <Master Design>
 
     Contains:        Top
 
     Scale:           1.000
     Mirrored:        No
     Rotated:         No
-    Offset:          -462.50    -499.50mm
+    Offset:          -463.50    -499.50mm
     Step & Repeat:   Not used
 
 
@@ -56,19 +58,22 @@ Plot Details
     D13      Round 0.64-
     D86      Round 0.70
     D100      Rectangle 1.30 x 2.20 Rotation 90
+    D111      Rectangle 1.40 x 2.00
 
     Gerber Output
     -------------
 
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Bottom).gbr
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Bottom).gbr
     Plot Name:       Bottom
+
+    Variant:         <Master Design>
 
     Contains:        Bottom
 
     Scale:           1.000
     Mirrored:        No
     Rotated:         No
-    Offset:          -462.50    -499.50mm
+    Offset:          -463.50    -499.50mm
     Step & Repeat:   Not used
 
 
@@ -78,20 +83,93 @@ Plot Details
     D12      Round 0.80
     D13      Round 0.64-
     D86      Round 0.70
-    D102      Rectangle 1.50 x 2.40
+    D110      Rectangle 1.50 x 2.40
 
     Gerber Output
     -------------
 
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Silkscreen Top).gbr
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Silkscreen Top).gbr
     Plot Name:       Silkscreen Top
+
+    Variant:         <Master Design>
 
     Contains:        Silkscreen Top
 
     Scale:           1.000
     Mirrored:        No
     Rotated:         No
-    Offset:          -462.50    -499.50mm
+    Offset:          -463.50    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D97      Round 0.00+
+    D98      Round 0.30
+    D101      Round 1.00
+    D102      Round 0.20
+    D112      Round 0.50
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Solder Mask Top).gbr
+    Plot Name:       Solder Mask Top
+
+    Variant:         <Master Design>
+
+    Contains:        Solder Mask Top
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -463.50    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D112      Round 1.05+
+    D113      Round 0.95+
+    D114      Rectangle 1.65+ x 2.25+
+    D115      Rectangle 1.55+ x 2.45+ Rotation 90
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Paste Mask Top).gbr
+    Plot Name:       Paste Mask Top
+
+    Variant:         <Master Design>
+
+    Contains:        Paste Mask Top
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -463.50    -499.50mm
+    Step & Repeat:   Not used
+
+
+    D-Code   Description
+
+    D100      Rectangle 1.30 x 2.20 Rotation 90
+    D111      Rectangle 1.40 x 2.00
+
+    Gerber Output
+    -------------
+
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Silkscreen Bottom).gbr
+    Plot Name:       Silkscreen Bottom
+
+    Variant:         <Master Design>
+
+    Contains:        Silkscreen Bottom
+
+    Scale:           1.000
+    Mirrored:        No
+    Rotated:         No
+    Offset:          -463.50    -499.50mm
     Step & Repeat:   Not used
 
 
@@ -100,138 +178,82 @@ Plot Details
     D97      Round 0.00+
     D98      Round 0.30
     D99      Round 0.45
-    D101      Round 1.00
-    D102      Round 0.20
-    D103      Round 0.50
+    D112      Round 0.03-
+    D113      Round 0.13-
+    D114      Round 0.12+
 
     Gerber Output
     -------------
 
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Solder Mask Top).gbr
-    Plot Name:       Solder Mask Top
-
-    Contains:        Solder Mask Top
-
-    Scale:           1.000
-    Mirrored:        No
-    Rotated:         No
-    Offset:          -462.50    -499.50mm
-    Step & Repeat:   Not used
-
-
-    D-Code   Description
-
-    D102      Round 1.05+
-    D103      Round 0.95+
-    D104      Rectangle 1.55+ x 2.45+ Rotation 90
-
-    Gerber Output
-    -------------
-
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Paste Mask Top).gbr
-    Plot Name:       Paste Mask Top
-
-    Contains:        Paste Mask Top
-
-    Scale:           1.000
-    Mirrored:        No
-    Rotated:         No
-    Offset:          -462.50    -499.50mm
-    Step & Repeat:   Not used
-
-
-    D-Code   Description
-
-    D100      Rectangle 1.30 x 2.20 Rotation 90
-
-    Gerber Output
-    -------------
-
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Silkscreen Bottom).gbr
-    Plot Name:       Silkscreen Bottom
-
-    Contains:        Silkscreen Bottom
-
-    Scale:           1.000
-    Mirrored:        No
-    Rotated:         No
-    Offset:          -462.50    -499.50mm
-    Step & Repeat:   Not used
-
-
-    D-Code   Description
-
-    D98      Round 0.30
-    D102      Round 0.03-
-    D103      Round 0.13-
-    D104      Round 0.12+
-
-    Gerber Output
-    -------------
-
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Solder Mask Bottom).gbr
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Solder Mask Bottom).gbr
     Plot Name:       Solder Mask Bottom
+
+    Variant:         <Master Design>
 
     Contains:        Solder Mask Bottom
 
     Scale:           1.000
     Mirrored:        No
     Rotated:         No
-    Offset:          -462.50    -499.50mm
+    Offset:          -463.50    -499.50mm
     Step & Repeat:   Not used
 
 
     D-Code   Description
 
-    D102      Round 1.05+
-    D103      Round 0.95+
-    D104      Rectangle 1.75+ x 2.65+
+    D112      Round 1.05+
+    D113      Round 0.95+
+    D114      Rectangle 1.75+ x 2.65+
 
     Gerber Output
     -------------
 
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Paste Mask Bottom).gbr
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Paste Mask Bottom).gbr
     Plot Name:       Paste Mask Bottom
+
+    Variant:         <Master Design>
 
     Contains:        Paste Mask Bottom
 
     Scale:           1.000
     Mirrored:        No
     Rotated:         No
-    Offset:          -462.50    -499.50mm
+    Offset:          -463.50    -499.50mm
     Step & Repeat:   Not used
 
 
     D-Code   Description
 
-    D102      Rectangle 1.50 x 2.40
+    D110      Rectangle 1.50 x 2.40
 
     Gerber Output
     -------------
 
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Drill Drawing).gbr
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Drill Drawing).gbr
     Plot Name:       Drill Drawing
+
+    Variant:         <Master Design>
 
     Contains:        <Through Hole>
 
     Scale:           1.000
     Mirrored:        No
     Rotated:         No
-    Offset:          -462.50    -499.50mm
+    Offset:          -463.50    -499.50mm
     Step & Repeat:   Not used
 
 
     D-Code   Description
 
-    D102      Round 0.50
-    D103      Round 0.10
-    D104      Round 0.40
+    D112      Round 0.50
+    D113      Round 0.10
+    D114      Round 0.40
 
     Drill Table
     -----------
     Diam (thou)	Qty	Id	Plated
 
-    15.7	80  	A	Yes
+    15.7	75  	A	Yes
     19.7	48  	B	Yes
 
 
@@ -239,8 +261,10 @@ Plot Details
     Excellon Drill Output
     ---------------------
 
-    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001(Through Hole).drl
+    Output File:     C:\Users\Hannes\Documents\GitHub\ZX81\tastatur\003-CAM\tastatur_base_001-Master Design(Through Hole).drl
     Plot Name:       <Through Hole>
+
+    Variant:         <Master Design>
 
     Contains:        <Through Hole>
 
@@ -248,7 +272,7 @@ Plot Details
     Scale:           1.000
     Mirrored:        No
     Rotated:         No
-    Offset:          -462.50    -499.50mm
+    Offset:          -463.50    -499.50mm
     Step & Repeat:   Not used
 
 
@@ -258,7 +282,7 @@ Plot Details
 
     Tool          Size     Count  Plated
 
-    T001        000.40000    80     Y
+    T001        000.40000    75     Y
     T002        000.50000    48     Y
 
 Summary Information
@@ -291,6 +315,6 @@ Summary Information
     Layer Wires Bottom
     Layer Construction Lines
 
-Plotting took 0.212 Seconds
+Plotting took 0.256 Seconds
 
                 ---------------- End Of Report ----------------
